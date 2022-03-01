@@ -1,1 +1,2 @@
-My first readme
+I use git pull command
+
